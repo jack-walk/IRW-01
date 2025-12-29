@@ -2,8 +2,14 @@
 
 ## By **[Jack Walker](https://jackwalker.xyz/)** | Updated Dec. 29, 2025
 
-### **Required packages/libraries:** pandas
-### **[Click here to access data source for 2025.](https://opendata.dc.gov/datasets/DCGIS::311-city-service-requests-in-2025)**
+### [Read the story at this link.](https://jack-walk.github.io/IRW-01/)
+
+--
+
+### About this project
+
+#### **Required packages/libraries:** pandas
+#### **[Click here to access data source for 2025.](https://opendata.dc.gov/datasets/DCGIS::311-city-service-requests-in-2025)**
 
 **Project Description:** In this repository we analyze trends in 311 calls requesting Christmas tree removals in D.C. from 2020 to 2025. D.C. trash collectors pick up trees placed on the curb in January and February, so calls reflect requests related to pickups that the city missed. We explore a spike in calls in 2025, and whether a period of inclement weather shortly after the holiday played a role in the uptick.
 

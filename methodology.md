@@ -50,7 +50,7 @@ This correlation seems further supported by the fact that the week after new yea
 
 ### Caveats
 
-While this project found a correlation between the weather and 311 calls over missed tree pickups, it cannot confirm every call in the datasets filtered by time of year or zip code was caused by confusion over the snowstorm. With more time, we be more confident in these claims with interviews from residents and the public works department.
+While this project found a correlation between the weather and 311 calls over missed tree pickups, it cannot confirm every call in the datasets filtered by time of year or zip code was caused by confusion over the snowstorm. With more time, we could substantiate these claims by interviewing residents and the public works department.
 
 The project also does not filter out duplicate calls from the same caller or household. Meanwhile, snowfall across zip codes is generalized from individual measurement sites within the neighborhood, and may not reflect the exact amount of snowfall in every part of a zip code.
 

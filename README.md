@@ -1,4 +1,4 @@
-# **IRW Assessment:** Christmas Tree Removal Requests in D.C.
+# **IRW Assessment:** Christmas Tree Removal Requests
 
 ## By **[Jack Walker](jackwalker.xyz)** | Updated Dec. 29, 2025
 

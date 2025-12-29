@@ -48,4 +48,4 @@ I did not hear back from the D.C. Department of Public Works directly about why 
 
 This correlation seems further supported by the fact that the week after new years marks the end of the holiday season, when many residents would likely want to dispose of their Christmas trees.
 
-(For a closer look, you can access the code I used for this project [at this link](https://github.com/jack-walk/IRW-01/blob/main/test.ipynb))
+*(For a closer look, you can access the code I used for this project [at this link](https://github.com/jack-walk/IRW-01/blob/main/test.ipynb).)*

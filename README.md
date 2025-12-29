@@ -12,4 +12,4 @@
 1. Visit D.C. open data portal and download .CSV files for 311 calls in [2025](https://opendata.dc.gov/datasets/DCGIS::311-city-service-requests-in-2025/), [2024](https://opendata.dc.gov/datasets/DCGIS::311-city-service-requests-in-2024/), [2023](https://opendata.dc.gov/datasets/DCGIS::311-city-service-requests-in-2023/), [2022](https://opendata.dc.gov/datasets/DCGIS::311-city-service-requests-in-2022/), [2021](https://opendata.dc.gov/datasets/DCGIS::311-city-service-requests-in-2021/), and [2020](https://opendata.dc.gov/datasets/DCGIS::311-city-service-requests-in-2020/). (You can click each year to access dataset link.)
 2. Load a Python virtual environment and import **pandas**.
 3. For data analysis, follow steps outlined in `test.ipynb`.
-4. Upload data figures from analysis into a visualization program like [DataWrapper](datawrapper.de)
+4. Upload data figures from analysis into a visualization program like [DataWrapper](datawrapper.de).

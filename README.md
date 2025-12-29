@@ -1,6 +1,6 @@
 # **IRW Assessment:** Christmas Tree Removal Requests
 
-## By **[Jack Walker](jackwalker.xyz)** | Updated Dec. 29, 2025
+## By **[Jack Walker](https://jackwalker.xyz/)** | Updated Dec. 29, 2025
 
 ### **Required packages/libraries:** pandas
 ### **[Click here to access data source for 2025.](https://opendata.dc.gov/datasets/DCGIS::311-city-service-requests-in-2025)**

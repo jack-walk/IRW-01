@@ -14,7 +14,15 @@
 
 **Required packages/libraries:** pandas
 
-1. Visit D.C. open data portal and download .CSV files for 311 calls in [2025](https://opendata.dc.gov/datasets/DCGIS::311-city-service-requests-in-2025/), [2024](https://opendata.dc.gov/datasets/DCGIS::311-city-service-requests-in-2024/), [2023](https://opendata.dc.gov/datasets/DCGIS::311-city-service-requests-in-2023/), [2022](https://opendata.dc.gov/datasets/DCGIS::311-city-service-requests-in-2022/), [2021](https://opendata.dc.gov/datasets/DCGIS::311-city-service-requests-in-2021/), and [2020](https://opendata.dc.gov/datasets/DCGIS::311-city-service-requests-in-2020/). (You can click each year to access dataset link.)
-2. Load a Python virtual environment and import **pandas**.
-3. For data analysis, follow steps outlined in `test.ipynb`.
-4. Upload data figures from analysis into a visualization program like [DataWrapper](datawrapper.de).
+1. Download the data.
+    - Create a `/jack-data` directory (in the project root).
+    - Visit D.C. open data portal and download CSV files for 311 calls in [2025](https://opendata.dc.gov/datasets/DCGIS::311-city-service-requests-in-2025/), [2024](https://opendata.dc.gov/datasets/DCGIS::311-city-service-requests-in-2024/), [2023](https://opendata.dc.gov/datasets/DCGIS::311-city-service-requests-in-2023/), [2022](https://opendata.dc.gov/datasets/DCGIS::311-city-service-requests-in-2022/), [2021](https://opendata.dc.gov/datasets/DCGIS::311-city-service-requests-in-2021/), and [2020](https://opendata.dc.gov/datasets/DCGIS::311-city-service-requests-in-2020/). (You can click each year to access dataset link.)
+    - Rename the CSVs to match the format `311_YEAR.csv` and put them into `/jack-data`.
+2. Install python 3.13.
+3. [Install pandas](https://pandas.pydata.org/docs/getting_started/install.html)
+4. If using the Jupyter Notebook:
+   - Install [jupyter notebook](https://jupyter.org/install#jupyter-notebook).
+    - From the project root, run `jupyter notebook test.ipynb`.
+5. OR if running the python file: 
+    - From the project root, run `python code.py`.
+6. Upload the generated .CSV files (`complaints.csv` and `zipcodes.csv`) into a visualization program like [DataWrapper](datawrapper.de).

@@ -24,5 +24,5 @@
    - Install [jupyter notebook](https://jupyter.org/install#jupyter-notebook).
    - From the project root, run `jupyter notebook test.ipynb`.
 5. OR if running the python file:
-   - From the project root, run `python code.py`.
+   - From the project root, run `python_code.py`.
 7. Upload the generated .CSV files (`complaints.csv` and `zipcodes.csv`) into a visualization program like [DataWrapper](datawrapper.de).
